@@ -1,2 +1,3 @@
 # simple-planegame
-	一个简单的面相对象方式写的打飞机游戏
+	一锟斤拷锟津单碉拷锟斤拷锟斤拷锟斤拷锟绞叫达拷拇锟缴伙拷锟斤拷戏
+	![image](https://github.com/shushuhao/simple-planegame/blob/master/gif/GIF.gif)
