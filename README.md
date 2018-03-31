@@ -1,2 +1,2 @@
 # simple-planegame
-	![image](https://github.com/shushuhao/shushuhao.github.io/blob/master/gif/GIF.gif)
+	![image](https://raw.githubusercontent.com/shushuhao/shushuhao.github.io/master/gif/GIF.gif)
